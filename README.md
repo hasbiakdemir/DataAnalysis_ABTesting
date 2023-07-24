@@ -1,4 +1,4 @@
-# Data Analysis - A/BTesting
+# Data Analysis - A/B Testing
 
 In this project, I aimed to implement A/B testing in Python.
 The project is from DataCamp. I tried to expand its scope by doing Exploratory Data Analysis (EDA) and adding my own twist.
